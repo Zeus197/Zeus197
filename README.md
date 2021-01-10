@@ -1,6 +1,6 @@
 ## Hi, I'm Ishan👋
 
-I'm currently a CS Grad Student at **NYU Tandon**. I am passionate about Data Science and Software Engineering and I use my passion to solve scalable real-world problems.
+I'm currently a CS Grad Student ** @NYU Tandon**. I am passionate about Data Science and Software Engineering and I use my passion to solve scalable real-world problems.
 
 - 🧑🏻‍💻 Actively looking for **Full-time jobs** in **Software Engineering** and **Data Science**. 
 - 🔭 I’m currently working as a **DSG Analyst** at **NYU**             
