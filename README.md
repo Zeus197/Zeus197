@@ -1,10 +1,7 @@
 ## Hi, I'm Ishan👋
 
 I'm currently a CS Grad Student at **NYU Tandon**
-I am passionate about Data Science and Software Engineering and I use my passion to solve scalable real-world problems. 
-
-<!--
-**Zeus197/Zeus197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about Data Science and Software Engineering and I use my passion to solve scalable real-world problems.
 
 ![Alt Text](https://github.com/Zeus197/Zeus197/blob/main/gif1.gif)
 
