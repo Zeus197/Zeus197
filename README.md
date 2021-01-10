@@ -3,7 +3,7 @@
 I'm currently a CS Grad Student at **NYU Tandon**
 I am passionate about Data Science and Software Engineering and I use my passion to solve scalable real-world problems.
 
-![Alt Text](https://github.com/Zeus197/Zeus197/blob/main/gif1.gif=250x250)
+![Alt Text](https://github.com/Zeus197/Zeus197/blob/main/gif1.gif | width=100)
 
 - 🧑🏻‍💻 Actively looking for **Full-time jobs** in **Software Engineering** and **Data Science**.
 - 🔭 I’m currently working as a **DSG Analyst** at **NYU**             
