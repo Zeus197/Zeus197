@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi, I'm Ishan👋
+
+I'm currently a CS Grad Student at **NYU Tandon**
+I am passionate about Data Science and Software Engineering and I use my passion to solve scalable real-world problems. 
 
 <!--
 **Zeus197/Zeus197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Alt Text](https://github.com/Zeus197/Zeus197/blob/main/gif1.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🧑🏻‍💻 Actively looking for **Full-time jobs** in **Software Engineering** and **Data Science**.
+- 🔭 I’m currently working as a **DSG Analyst** at **NYU**             
+- 🌱 I am currently learning React.js and looking to contribute to Open Source Projects.
+- ✨ I’m looking to collaborate on interesting projects that combine the use of **Data Science** and **Software Development**
+- 📫 How to reach me:![image] [https://www.linkedin.com/in/ishan-tickoo-104750aa]
+- ⚡ Fun facts: I like to learn about new gadgets and tech. I play Fifa and Pubg
+- 📺 Netflix: Cobra Kai, Crinimals UK | Prime: The Boys, Jack Ryan
 -->
