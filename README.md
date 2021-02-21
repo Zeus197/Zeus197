@@ -2,7 +2,7 @@
 
 I'm currently a CS Grad Student **NYU Tandon**. I am passionate about Data Science and Software Engineering and I use my passion to solve scalable real-world problems.
 
-- 🧑🏻‍💻 Actively looking for **Full-time jobs** in **Software Engineering** and **Data Science**. 
+- 🧑🏻‍💻 Actively looking for **Full-time jobs** in **Data Science** and **Software Engineering**. 
 - 🔭 I’m currently working as a **DSG Analyst** at **NYU**             
 - 🌱 I am currently learning React.js and looking to contribute to Open Source Projects.
 - ✨ I’m looking to collaborate on interesting projects that combine the use of **Data Science** and **Software Development**
